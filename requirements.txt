@@ -1,6 +1,7 @@
 streamlit
 requests
 langchain-groq
+langchain
 pandas
 numpy
 python-dotenv
